@@ -1,4 +1,4 @@
 Profile-share-modal
 
 Check it out
-https://github.com/ParthShirkande/Profile-Share.git
+https://parthshirkande.github.io/Profile-Share/
